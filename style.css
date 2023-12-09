@@ -52,7 +52,7 @@ body{
     font-family: 'Poppins', sans-serif;
 	font-weight: 400;
 	font-size:14px;
-	color:red;
+	color:#888;
 }
 .pro-features {
 	position: fixed;
@@ -63,7 +63,7 @@ body{
 	font-size: 14px;
 	background: #fff;
 	text-align: left;
-	color: red
+	color: #333;
 	top: 50%;
 	transform:translateY(-50%);
 	box-shadow: -4px 0px 5px #00000036;
@@ -79,12 +79,12 @@ body{
 }
 .pro-features li.big-title {
 	font-weight: 600;
-	color: red;
+	color: #1A76D1;
 	font-size: 15px;
 }
 .pro-features li.title {
 	font-weight: 600;
-	color: red;
+	color: #1A76D1;
 	font-size: 15px;
 }
 .pro-features .button{}
@@ -99,7 +99,7 @@ body{
 	text-transform: capitalize;
 }
 .pro-features li {
-	color: red;
+	color: #333;
 	margin: 0;
 	padding: 0;
 	line-height: 22px;
@@ -115,7 +115,7 @@ body{
 	border-radius: 5px 0 0 5px;
 	background: #1A76D1;
 	text-align: center;
-	color: red;
+	color: #fff;
 	top: 0;
 	cursor: pointer;
 	box-shadow: -4px 0px 5px #00000036;
@@ -128,7 +128,7 @@ body{
 	right: 15px;
 	padding: 10px 20px;
 	background: #1a76d1;
-	color: red;
+	color:#fff;
 	font-size: 25px;
 	width: 45px;
 	height: 45px;
@@ -172,7 +172,7 @@ body{
 	border-radius: 5px 0 0 5px;
 	background: #1A76D1;
 	text-align: center;
-	color: red !important;
+	color: #fff !important;
 	top: 0;
 	cursor: pointer;
 	box-shadow: -4px 0px 5px #00000036;
@@ -200,10 +200,10 @@ body{
 	cursor:pointer;
 }
 .color-plate span.color1{
-	background:green;
+	background:#1A76D1;
 }
 .color-plate span.color2{
-	background:greenyellow;
+	background:#2196f3;
 }
 .color-plate span.color3{
 	background:#32B87D;

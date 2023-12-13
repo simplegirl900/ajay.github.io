@@ -115,7 +115,7 @@ body{
 	border-radius: 5px 0 0 5px;
 	background: #1A76D1;
 	text-align: center;
-	color: red;
+	color:#333;
 	top: 0;
 	cursor: pointer;
 	box-shadow: -4px 0px 5px #00000036;
@@ -128,7 +128,7 @@ body{
 	right: 15px;
 	padding: 10px 20px;
 	background: #1a76d1;
-	color: red;
+	color: #fff;
 	font-size: 25px;
 	width: 45px;
 	height: 45px;
@@ -172,7 +172,7 @@ body{
 	border-radius: 5px 0 0 5px;
 	background: #1A76D1;
 	text-align: center;
-	color: red!important;
+	color: #1A76DI!important;
 	top: 0;
 	cursor: pointer;
 	box-shadow: -4px 0px 5px #00000036;
